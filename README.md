@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Projeto base desenvolvido através do tutorial do [Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM). Onde criamos uma Pokedex consumindo uma API ([PokeAPI](https://pokeapi.co/))
+Projeto desenvolvido através do tutorial do [Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM). Onde criamos uma Pokedex consumindo uma API ([PokeAPI](https://pokeapi.co/))
 
 ## 🛠️ Tecnologias utilizadas
 
